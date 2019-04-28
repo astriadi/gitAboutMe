@@ -1,0 +1,24 @@
+.jumbotron {
+    background-image: url(https://i.pinimg.com/originals/a9/77/39/a97739c46c1d65a5548467a884554c0c.jpg);
+    background-size: cover;
+    height: 100%;
+    color: white;
+    margin-bottom: 0%;
+}
+
+.bekgron{
+    background-color: black;
+    color: blue;
+}
+
+.img{
+    margin-left: auto;
+    margin-right: auto;
+    width:25%
+}
+
+@media screen and (max-width: 575px) {
+    .jumbotron h1 {
+    margin-top: 30px;
+    }
+}
